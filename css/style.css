@@ -1,3 +1,5 @@
+/* #feba00 */
+
 body {
   font-family: "Roboto", sans-serif;
   font-size: 14px;
@@ -235,7 +237,7 @@ h6 {
 .navbar-light .navbar-nav .nav-link:focus,
 .navbar-light .navbar-nav .nav-link:hover {
   background: none;
-  color: #f0738a;
+  color: #feba00;
 }
 /* ========= End =========== */
 
@@ -249,7 +251,7 @@ h6 {
   text-transform: capitalize;
 }
 .welcome-text h1 span {
-  color: #f0738a;
+  color: #feba00;
   font-weight: 600;
   text-transform: lowercase;
 }
@@ -272,7 +274,7 @@ h6 {
   margin-bottom: 20px;
 }
 .home-services-wrap h3 {
-  color: #f0738a;
+  color: #feba00;
   font-weight: 600;
 }
 .home-services-wrap .text {
@@ -299,7 +301,7 @@ h6 {
   position: relative;
   display: block;
   font-size: 24px;
-  color: #f0738a;
+  color: #feba00;
   max-width: 40px;
   margin: 25px auto 0;
 }
@@ -309,7 +311,7 @@ h6 {
   content: "";
   width: 50px;
   top: 50%;
-  border-bottom: 1px solid #f0738a;
+  border-bottom: 1px solid #feba00;
 }
 .main-heading span:before {
   left: -55px;
@@ -333,12 +335,12 @@ h6 {
   transition: all 0.15s linear;
 }
 .services-wrap:hover {
-  background: #f0738a;
+  background: #feba00;
   color: #fff;
 }
 .services-wrap h3 {
   font-size: 20px;
-  color: #f0738a;
+  color: #feba00;
   text-transform: uppercase;
   font-weight: 700;
 }
@@ -373,7 +375,7 @@ h6 {
 }
 .monthly-offer h2 {
   margin-bottom: 8px;
-  color: #f0738a;
+  color: #feba00;
 }
 .offer-img img {
   border: 4px solid #efeeeb;
@@ -391,7 +393,7 @@ h6 {
 }
 .list-colored li i,
 .features-wrap h3 {
-  color: #f0738a;
+  color: #feba00;
 }
 .list-colored .fa-li {
   top: 8px;
@@ -401,7 +403,7 @@ h6 {
 
 /* ========= 7. Package Style =========== */
 .package-wrap {
-  background: #f0738a;
+  background: #feba00;
   color: #fff;
   text-align: center;
   position: relative;
@@ -426,7 +428,7 @@ h6 {
   font-weight: 700;
   text-align: center;
   margin: 0 auto 25px auto;
-  color: #f0738a;
+  color: #feba00;
   background: #fff;
   z-index: 100;
   position: relative;
@@ -477,7 +479,7 @@ h6 {
 .owl-carousel .owl-nav button:hover,
 .owl-carousel .owl-nav button:hover {
   color: #fff;
-  background: #f0738a;
+  background: #feba00;
 }
 
 .owl-carousel .owl-dots {
@@ -508,7 +510,7 @@ h6 {
 .owl-controls.clickable .owl-dot:hover span,
 .owl-carousel .owl-dot:hover span {
   background: #fff;
-  border: 2px solid #f0738a;
+  border: 2px solid #feba00;
 }
 /* ========= End =========== */
 
@@ -704,7 +706,7 @@ figure.snip1210 a:hover {
   margin-top: 10px;
 }
 .testimonial-wrap h3 span {
-  color: #f0738a;
+  color: #feba00;
 }
 
 #home-clients {
@@ -737,7 +739,7 @@ figure.snip1210 a:hover {
   text-align: center;
   line-height: 80px;
   font-size: 30px;
-  background: #f0738a;
+  background: #feba00;
   color: #fff;
 }
 .offers-wrap form input {
@@ -755,7 +757,7 @@ figure.snip1210 a:hover {
   margin: 0 auto 15px auto;
   width: 70px;
   height: 70px;
-  background: #f0738a;
+  background: #feba00;
   color: #fff;
   line-height: 70px;
   text-align: center;
@@ -881,7 +883,7 @@ figure.snip1210 a:hover {
 .custom-select:focus {
   color: #151515;
   background-color: #fff;
-  border-color: #f0738a;
+  border-color: #feba00;
   outline: 0;
   box-shadow: none;
 }
@@ -906,7 +908,7 @@ label.error {
 #contact_form .form-btn {
   display: block;
   cursor: pointer;
-  background: #f0738a;
+  background: #feba00;
   color: #fff;
   padding: 10px 18px;
   font-size: 18px;
@@ -965,7 +967,7 @@ label.error {
   display: block;
   color: #fff;
   text-align: center;
-  background: #f0738a;
+  background: #feba00;
   font-size: 16px;
   font-weight: 500;
 }
@@ -997,7 +999,7 @@ label.error {
 .cbp-l-filters-buttonCenter .cbp-filter-item.cbp-filter-item-active,
 .cbp-l-filters-buttonCenter .cbp-filter-item:hover {
   border: none;
-  background: #f0738a;
+  background: #feba00;
   color: #fff;
 }
 .cbp-l-filters-buttonCenter .cbp-filter-item {
@@ -1048,7 +1050,7 @@ label.error {
   margin-bottom: 25px;
 }
 .header-form h1 span {
-  color: #f0738a;
+  color: #feba00;
   font-weight: 700;
 }
 .header-form .lead {
@@ -1096,7 +1098,7 @@ label.error {
   font-weight: 700;
   text-align: center;
   margin: 0 auto 25px auto;
-  color: #f0738a;
+  color: #feba00;
   border: 7px solid #fff6ef;
   z-index: 100;
   position: relative;
@@ -1260,8 +1262,8 @@ label.error {
 }
 .tags a:hover {
   color: #fff;
-  background: #f0738a;
-  border: 1px solid #f0738a;
+  background: #feba00;
+  border: 1px solid #feba00;
 }
 /* ========= End =========== */
 
@@ -1336,7 +1338,7 @@ label.error {
 .radius-anim {
   width: 70px;
   height: 70px;
-  background: #f0738a;
+  background: #feba00;
   animation: corner 3s;
   border-radius: 50%;
   animation-iteration-count: infinite;
