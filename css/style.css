@@ -382,7 +382,7 @@ h6 {
 }
 
 .features-wrap {
-  background: #fff url(../images/features-img.png) no-repeat bottom right;
+  /* background: #fff url(../images/features-img.png) no-repeat bottom right; */
   padding: 100px 0;
 }
 .amenities.fa-ul .fa-li {
@@ -1395,5 +1395,31 @@ label.error {
 
 .special-li ul {
   text-align: left;
+}
+
+.top-header {
+  color: #fff; /* Change this to your desired text color */
+  padding: 10px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.mt-30 {
+  margin-top: 80px;
+}
+
+@media (max-width: 768px) {
+  .top-header {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
+.footer a {
+  color: #000 !important;
+}
+.footer h6 {
+  color: #000 !important;
 }
 /* === End === */
